@@ -60,7 +60,7 @@ textarea {
   letter-spacing: 0.03em;
 }
 
-.main-button {
+.button {
   color: #fff;
   /* This in not accent color */
   background: #2196f3;
@@ -539,7 +539,7 @@ textarea {
   width: 358px;
   color: var(--background-color);
 }
-.subscribe-button {
+.subscribe-form__button {
   display: flex;
   align-items: center;
   letter-spacing: 0.06em;
